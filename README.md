@@ -1,5 +1,5 @@
 # BasicRectangleColliderJs
-A basic rectangle collision library made for just non-rotated rectangles that tells you the face collided with and has a collision system where you can have one element be static and one dynamic. It's mostly just for use in my projects, but feel free to use it in your own.
+A basic rectangle collision library made for just non-rotated rectangles that tells you the face collided with and has a collision system where you can have one element be static and one dynamic with the dynamic collider getting pushed away by the other.
 
 <img src="BasicRectangleColliderJs.png" width="512" />
 
