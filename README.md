@@ -1,6 +1,8 @@
 # BasicRectangleColliderJs
 A basic rectangle collision library made for just non-rotated rectangles that tells you the face collided with and has a collision system where you can have one element be static and one dynamic. It's mostly just for use in my projects, but feel free to use it in your own.
 
+<img src="BasicRectangleColliderJs.png" width="512" />
+
 You can find examples [here](https://github.com/RandomGamingDev/BasicRectangleColliderJs/tree/main/examples). Currently [this](https://github.com/RandomGamingDev/BasicRectangleColliderJs/blob/main/examples/sketch.js) example uses p5.js.
 
 This library supports drawing the collision box for debug purposes.
